@@ -398,7 +398,7 @@ li,ol,ul {
 }
 
 .collapsed.object .toggle-end::before {
-    content: '…';
+    content: '...';
     display: inline
 }
 
